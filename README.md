@@ -123,8 +123,8 @@ Records financial transactions and payment settlements linked to sales orders.
 ---
 
 ### Business Problem Addressed
-### Total GMV delivered (sum of NetAmount) for orders with Status='Delivered'![ Total GMV delivered (sum of NetAmount) for orders with Status='Delivered']
-(https://github.com/Techsis-22/DATAIT-SQL/blob/main/Screenshot%20(50).png?raw=true)
+### Total GMV delivered (sum of NetAmount) for orders with Status= 'Delivered'.   
+![Total GMV delivered (sum of NetAmount) for orders with Status='Delivered'](https://github.com/Techsis-22/DATAIT-SQL/blob/main/Screenshot%20(50).png?raw=true)
 
 --- The errors are from the questions
 
