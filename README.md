@@ -1,4 +1,4 @@
-### DATAIT-SQL
+# DATAIT-SQL
 ---------------------------------------------
 
 The DATAIT SQL houses my sql queries for my final project during the cohort 5 period where i solved 10 problems the FCMG department faces with respect to their sales department and also ensured that the sales rose from 15% to about 75% profit margin
@@ -7,7 +7,6 @@ The DATAIT SQL houses my sql queries for my final project during the cohort 5 pe
 The dataset used for this project was created manually using sql scripts which led to the creation of five (5) tables, namely: Agents, Retailers, SalesOrders, SalesOrderLines, Payments. 
 
 
-Here is a detailed, markdown-formatted schema documentation for your GitHub project repository. You can copy and paste this directly into your `README.md` file or save it as a separate `DATABASE_SCHEMA.md` file and link it.
 
 ---
 
