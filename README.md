@@ -122,7 +122,11 @@ Records financial transactions and payment settlements linked to sales orders.
 
 ---
 
-### Business Problem Addressed 
+### Business Problem Addressed
+### Total GMV delivered (sum of NetAmount) for orders with Status='Delivered'
+![()]
+
+--- The errors are from the questions
 
 
 
